@@ -1,62 +1,239 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Samony Podcast</title>
     <link>https://www.samony.com.ng/podcast</link>
     <language>en-us</language>
-    <itunes:author>Samuel Jeje</itunes:author>
+    <copyright>? 2025 Samony. All rights reserved.</copyright>
+    <itunes:author>Samony</itunes:author>
     <itunes:summary>Samony Podcast gives you fast trend updates in audio form. You get the top stories in tech, sport, politics, lifestyle, culture, and entertainment. Each episode is short and direct. You stay informed without scrolling. You save time. You stay ahead.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Samony</itunes:name>
+      <itunes:email>socials@samony.com.ng</itunes:email>
+    </itunes:owner>
     <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png"/>
     <image>
       <url>https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png</url>
       <title>Samony Podcast</title>
       <link>https://www.samony.com.ng/podcast</link>
     </image>
-    <itunes:category text="Government"/>
+    <itunes:category text="News">
+      <itunes:category text="Politics"/>
+    </itunes:category>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:category text="Sports"/>
+    <itunes:keywords>breaking news, update, nigeria, insecurity, banditry, school closures, opposition, government, education, politics</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <description>Samony Podcast gives you fast trend updates in audio form. You get the top stories in tech, sport, politics, lifestyle, culture, and entertainment. Each episode is short and direct. You stay informed without scrolling. You save time. You stay ahead.</description>
-    <pubDate>Thu, 27 Nov 2025 13:53:42 GMT</pubDate>
-    <lastBuildDate>Thu, 27 Nov 2025 13:53:42 GMT</lastBuildDate>
+    <pubDate>Thu, 27 Nov 2025 20:48:42 GMT</pubDate>
+    <lastBuildDate>Thu, 27 Nov 2025 20:48:42 GMT</lastBuildDate>
     <atom:link href="https://samjayhub.github.io/samony_podcast_feed/feed.xml" rel="self" type="application/rss+xml"/>
-     <item>
+    <item>
+      <title>Breaking News Update</title>
+      <link>https://drive.google.com/uc?export=download&amp;id=1ObcxrUSJTq-witbWVKC378CbBWjg-F9M</link>
+      <pubDate>Thu, 27 Nov 2025 20:38:58 GMT</pubDate>
+      <guid isPermaLink="false">1ObcxrUSJTq-witbWVKC378CbBWjg-F9M</guid>
+      <description>Breaking news update regarding developing situation.
+
+Hosts: Host: Oga Titus (Boss), Co-Host: Sodiq (Street)
+
+Category: News
+
+-------------------------------------------
+Follow Samony Podcast:
+Twitter: https://twitter.com/samony25
+Instagram: https://instagram.com/samony25
+Facebook: https://facebook.com/samony25
+YouTube: https://youtube.com/@samony25
+TikTok: https://tiktok.com/@samony25
+
+Website: https://www.samony.com.ng
+Contact us: socials@samony.com.ng
+-------------------------------------------</description>
+      <content:encoded><![CDATA[<p>Breaking news update regarding developing situation.</p><p><strong>?? Hosts: Host: Oga Titus (Boss), Co-Host: Sodiq (Street)</strong></p><p><strong>? Category: News</strong></p><p><strong>?? Tags:</strong> Breaking News, Update</p>
+<hr/>
+<p><strong>Follow Samony Podcast:</strong></p>
+<p>
+? Twitter: <a href="https://twitter.com/samony25">@samony25</a><br/>
+? Instagram: <a href="https://instagram.com/samony25">@samony25</a><br/>
+? Facebook: <a href="https://facebook.com/samony25">samony25</a><br/>
+? YouTube: <a href="https://youtube.com/@samony25">samony25</a><br/>
+? TikTok: <a href="https://tiktok.com/@samony25">@samony25</a>
+</p>
+<p>
+? Website: <a href="https://www.samony.com.ng">https://www.samony.com.ng</a><br/>
+?? Contact us: <a href="mailto:socials@samony.com.ng">socials@samony.com.ng</a>
+</p>]]></content:encoded>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ObcxrUSJTq-witbWVKC378CbBWjg-F9M" length="1520868" type="audio/mpeg"/>
+      <itunes:author>Host: Oga Titus (Boss), Co-Host: Sodiq (Street)</itunes:author>
+      <itunes:summary>Breaking news update regarding developing situation.</itunes:summary>
+      <itunes:duration>00:01:35</itunes:duration>
+      <itunes:keywords>Breaking News, Update</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
       <title>Bandits, Schools &amp; Blame Games: Nigeria&apos;s Insecurity Crisis</title>
       <link>https://drive.google.com/uc?export=download&amp;id=1v8pFqpegnxj-lSOTBD9qeJsO_pznqhdq</link>
       <pubDate>Thu, 27 Nov 2025 13:41:05 GMT</pubDate>
       <guid isPermaLink="false">1v8pFqpegnxj-lSOTBD9qeJsO_pznqhdq</guid>
-      <description>Opposition parties in Nigeria are fiercely criticizing the Federal Government for allegedly negotiating with bandits and for the widespread closure of schools due to insecurity. This episode delves into the arguments against these government actions, the devastating impact on education, and the broader implications for national security and public trust.</description>
+      <description>Opposition parties in Nigeria are fiercely criticizing the Federal Government for allegedly negotiating with bandits and for the widespread closure of schools due to insecurity. This episode delves into the arguments against these government actions, the devastating impact on education, and the broader implications for national security and public trust.
+
+Hosts: Host, Co-Host
+
+Category: Politics
+
+-------------------------------------------
+Follow Samony Podcast:
+Twitter: https://twitter.com/samony25
+Instagram: https://instagram.com/samony25
+Facebook: https://facebook.com/samony25
+YouTube: https://youtube.com/@samony25
+TikTok: https://tiktok.com/@samony25
+
+Website: https://www.samony.com.ng
+Contact us: socials@samony.com.ng
+-------------------------------------------</description>
+      <content:encoded><![CDATA[<p>Opposition parties in Nigeria are fiercely criticizing the Federal Government for allegedly negotiating with bandits and for the widespread closure of schools due to insecurity. This episode delves into the arguments against these government actions, the devastating impact on education, and the broader implications for national security and public trust.</p><p><strong>?? Hosts: Host, Co-Host</strong></p><p><strong>? Category: Politics</strong></p><p><strong>?? Tags:</strong> Nigeria, Insecurity, Banditry, School Closures, Opposition, Government, Education, Politics</p>
+<hr/>
+<p><strong>Follow Samony Podcast:</strong></p>
+<p>
+? Twitter: <a href="https://twitter.com/samony25">@samony25</a><br/>
+? Instagram: <a href="https://instagram.com/samony25">@samony25</a><br/>
+? Facebook: <a href="https://facebook.com/samony25">samony25</a><br/>
+? YouTube: <a href="https://youtube.com/@samony25">samony25</a><br/>
+? TikTok: <a href="https://tiktok.com/@samony25">@samony25</a>
+</p>
+<p>
+? Website: <a href="https://www.samony.com.ng">https://www.samony.com.ng</a><br/>
+?? Contact us: <a href="mailto:socials@samony.com.ng">socials@samony.com.ng</a>
+</p>]]></content:encoded>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v8pFqpegnxj-lSOTBD9qeJsO_pznqhdq" length="15539156" type="audio/mpeg"/>
-      <itunes:author>Samuel Jeje</itunes:author>
+      <itunes:author>Host, Co-Host</itunes:author>
       <itunes:summary>Opposition parties in Nigeria are fiercely criticizing the Federal Government for allegedly negotiating with bandits and for the widespread closure of schools due to insecurity. This episode delves into the arguments against these government actions, the devastating impact on education, and the broader implications for national security and public trust.</itunes:summary>
+      <itunes:duration>00:16:11</itunes:duration>
+      <itunes:keywords>Nigeria, Insecurity, Banditry, School Closures, Opposition, Government, Education, Politics</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
     </item>
-     <item>
+    <item>
       <title>Wahala for Super Eagles! Benjamin Fredrick Don Cast for AFCON 2025!</title>
       <link>https://drive.google.com/uc?export=download&amp;id=1alnv41UR-6v8qANBaMx4V1cXeNiK1i0f</link>
       <pubDate>Thu, 27 Nov 2025 10:28:10 GMT</pubDate>
       <guid isPermaLink="false">1alnv41UR-6v8qANBaMx4V1cXeNiK1i0f</guid>
-      <description>Generated by Samony AI. Hosts: Host, Co-Host</description>
+      <description>Generated by Samony AI. Hosts: Host, Co-Host
+
+-------------------------------------------
+Follow Samony Podcast:
+Twitter: https://twitter.com/samony25
+Instagram: https://instagram.com/samony25
+Facebook: https://facebook.com/samony25
+YouTube: https://youtube.com/@samony25
+TikTok: https://tiktok.com/@samony25
+
+Website: https://www.samony.com.ng
+Contact us: socials@samony.com.ng
+-------------------------------------------</description>
+      <content:encoded><![CDATA[<p>Generated by Samony AI. Hosts: Host, Co-Host</p>
+<hr/>
+<p><strong>Follow Samony Podcast:</strong></p>
+<p>
+? Twitter: <a href="https://twitter.com/samony25">@samony25</a><br/>
+? Instagram: <a href="https://instagram.com/samony25">@samony25</a><br/>
+? Facebook: <a href="https://facebook.com/samony25">samony25</a><br/>
+? YouTube: <a href="https://youtube.com/@samony25">samony25</a><br/>
+? TikTok: <a href="https://tiktok.com/@samony25">@samony25</a>
+</p>
+<p>
+? Website: <a href="https://www.samony.com.ng">https://www.samony.com.ng</a><br/>
+?? Contact us: <a href="mailto:socials@samony.com.ng">socials@samony.com.ng</a>
+</p>]]></content:encoded>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1alnv41UR-6v8qANBaMx4V1cXeNiK1i0f" length="9320276" type="audio/mpeg"/>
-      <itunes:author>Samuel Jeje</itunes:author>
+      <itunes:author>Samony</itunes:author>
       <itunes:summary>Generated by Samony AI. Hosts: Host, Co-Host</itunes:summary>
+      <itunes:duration>00:09:42</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
     </item>
-     <item>
+    <item>
       <title>Yahaya Bello: Bail Denied in N110 Billion Fraud Saga!</title>
       <link>https://drive.google.com/uc?export=download&amp;id=1Oxbct-31CJ_0R7owC46L_vpqkmaUhpXH</link>
       <pubDate>Thu, 27 Nov 2025 08:38:32 GMT</pubDate>
       <guid isPermaLink="false">1Oxbct-31CJ_0R7owC46L_vpqkmaUhpXH</guid>
-      <description>Generated by Samony AI. Hosts: Host, Co-Host</description>
+      <description>Generated by Samony AI. Hosts: Host, Co-Host
+
+-------------------------------------------
+Follow Samony Podcast:
+Twitter: https://twitter.com/samony25
+Instagram: https://instagram.com/samony25
+Facebook: https://facebook.com/samony25
+YouTube: https://youtube.com/@samony25
+TikTok: https://tiktok.com/@samony25
+
+Website: https://www.samony.com.ng
+Contact us: socials@samony.com.ng
+-------------------------------------------</description>
+      <content:encoded><![CDATA[<p>Generated by Samony AI. Hosts: Host, Co-Host</p>
+<hr/>
+<p><strong>Follow Samony Podcast:</strong></p>
+<p>
+? Twitter: <a href="https://twitter.com/samony25">@samony25</a><br/>
+? Instagram: <a href="https://instagram.com/samony25">@samony25</a><br/>
+? Facebook: <a href="https://facebook.com/samony25">samony25</a><br/>
+? YouTube: <a href="https://youtube.com/@samony25">samony25</a><br/>
+? TikTok: <a href="https://tiktok.com/@samony25">@samony25</a>
+</p>
+<p>
+? Website: <a href="https://www.samony.com.ng">https://www.samony.com.ng</a><br/>
+?? Contact us: <a href="mailto:socials@samony.com.ng">socials@samony.com.ng</a>
+</p>]]></content:encoded>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Oxbct-31CJ_0R7owC46L_vpqkmaUhpXH" length="14672368" type="audio/mpeg"/>
-      <itunes:author>Samuel Jeje</itunes:author>
+      <itunes:author>Samony</itunes:author>
       <itunes:summary>Generated by Samony AI. Hosts: Host, Co-Host</itunes:summary>
+      <itunes:duration>00:15:17</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
     </item>
-     <item>
+    <item>
       <title>Nigeria&apos;s Battle Against Abductions: A National Security Emergency</title>
       <link>https://drive.google.com/uc?export=download&amp;id=1KzJheunFEBtkNVgtSXPBDz5r5pXkl852</link>
       <pubDate>Thu, 27 Nov 2025 07:56:05 GMT</pubDate>
       <guid isPermaLink="false">1KzJheunFEBtkNVgtSXPBDz5r5pXkl852</guid>
-      <description>Generated by Samony AI. Hosts: Host, Co-Host</description>
+      <description>Generated by Samony AI. Hosts: Host, Co-Host
+
+-------------------------------------------
+Follow Samony Podcast:
+Twitter: https://twitter.com/samony25
+Instagram: https://instagram.com/samony25
+Facebook: https://facebook.com/samony25
+YouTube: https://youtube.com/@samony25
+TikTok: https://tiktok.com/@samony25
+
+Website: https://www.samony.com.ng
+Contact us: socials@samony.com.ng
+-------------------------------------------</description>
+      <content:encoded><![CDATA[<p>Generated by Samony AI. Hosts: Host, Co-Host</p>
+<hr/>
+<p><strong>Follow Samony Podcast:</strong></p>
+<p>
+? Twitter: <a href="https://twitter.com/samony25">@samony25</a><br/>
+? Instagram: <a href="https://instagram.com/samony25">@samony25</a><br/>
+? Facebook: <a href="https://facebook.com/samony25">samony25</a><br/>
+? YouTube: <a href="https://youtube.com/@samony25">samony25</a><br/>
+? TikTok: <a href="https://tiktok.com/@samony25">@samony25</a>
+</p>
+<p>
+? Website: <a href="https://www.samony.com.ng">https://www.samony.com.ng</a><br/>
+?? Contact us: <a href="mailto:socials@samony.com.ng">socials@samony.com.ng</a>
+</p>]]></content:encoded>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KzJheunFEBtkNVgtSXPBDz5r5pXkl852" length="13745876" type="audio/mpeg"/>
-      <itunes:author>Samuel Jeje</itunes:author>
+      <itunes:author>Samony</itunes:author>
       <itunes:summary>Generated by Samony AI. Hosts: Host, Co-Host</itunes:summary>
+      <itunes:duration>00:14:19</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>

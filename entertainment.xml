@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Samony Podcast - Entertainment</title>
+    <link>https://www.samony.com.ng/podcast</link>
+    <language>en-us</language>
+    <copyright>? 2025 Samony. All rights reserved.</copyright>
+    <itunes:author>Samony</itunes:author>
+    <itunes:summary>Entertainment news, Nollywood updates, music, celebrity gist, and pop culture from Nigeria and Africa.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Samony</itunes:name>
+      <itunes:email>socials@samony.com.ng</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png"/>
+    <image>
+      <url>https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png</url>
+      <title>Samony Podcast - Entertainment</title>
+      <link>https://www.samony.com.ng/podcast</link>
+    </image>
+    <itunes:category text="Leisure">
+    </itunes:category>
+    <itunes:keywords>burna boy, i go save, cancelled tour, low ticket sales, nigerian gossip, podcast</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <description>Entertainment news, Nollywood updates, music, celebrity gist, and pop culture from Nigeria and Africa.</description>
+    <pubDate>Sun, 30 Nov 2025 22:02:27 GMT</pubDate>
+    <lastBuildDate>Sun, 30 Nov 2025 22:02:27 GMT</lastBuildDate>
+    <atom:link href="https://samjayhub.github.io/samony_podcast_feed/entertainment.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Burna Boy&apos;s Cancelled US Shows: Low Sales &amp; The I Go Save Clapback! E Shock You?</title>
+      <link>https://drive.google.com/uc?export=download&amp;id=1UBb_skcUB44AnEin_ZgUWAKOxIXjl1ZV</link>
+      <pubDate>Sun, 30 Nov 2025 21:00:14 GMT</pubDate>
+      <guid isPermaLink="false">1UBb_skcUB44AnEin_ZgUWAKOxIXjl1ZV</guid>
+      <description>This episode dives deep into the shocking cancellation of Burna Boy&apos;s US tour dates due to low ticket sales. We dissect the online uproar, comedian I Go Save&apos;s fierce criticism of Nigerians celebrating the news, and what this all means for the African Giant&apos;s global appeal.
+
+Hosts: Host: Puck, Co-Host: Zephyr
+
+Category: Entertainment
+
+-------------------------------------------
+Follow Samony Podcast:
+Twitter: https://twitter.com/samony25
+Instagram: https://instagram.com/samony25
+Facebook: https://facebook.com/samony25
+YouTube: https://youtube.com/@samony25
+TikTok: https://tiktok.com/@samony25
+
+Website: https://www.samony.com.ng
+Contact us: socials@samony.com.ng
+-------------------------------------------</description>
+      <content:encoded><![CDATA[<p>This episode dives deep into the shocking cancellation of Burna Boy's US tour dates due to low ticket sales. We dissect the online uproar, comedian I Go Save's fierce criticism of Nigerians celebrating the news, and what this all means for the African Giant's global appeal.</p><p><strong>?? Hosts: Host: Puck, Co-Host: Zephyr</strong></p><p><strong>? Category: Entertainment</strong></p><p><strong>?? Tags:</strong> Burna Boy, I Go Save, Cancelled Tour, Low Ticket Sales, Nigerian Gossip, Podcast</p>
+<hr/>
+<p><strong>Follow Samony Podcast:</strong></p>
+<p>
+? Twitter: <a href="https://twitter.com/samony25">@samony25</a><br/>
+? Instagram: <a href="https://instagram.com/samony25">@samony25</a><br/>
+? Facebook: <a href="https://facebook.com/samony25">samony25</a><br/>
+? YouTube: <a href="https://youtube.com/@samony25">samony25</a><br/>
+? TikTok: <a href="https://tiktok.com/@samony25">@samony25</a>
+</p>
+<p>
+? Website: <a href="https://www.samony.com.ng">https://www.samony.com.ng</a><br/>
+?? Contact us: <a href="mailto:socials@samony.com.ng">socials@samony.com.ng</a>
+</p>]]></content:encoded>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UBb_skcUB44AnEin_ZgUWAKOxIXjl1ZV" length="13361744" type="audio/mpeg"/>
+      <itunes:author>Host: Puck, Co-Host: Zephyr</itunes:author>
+      <itunes:summary>This episode dives deep into the shocking cancellation of Burna Boy&apos;s US tour dates due to low ticket sales. We dissect the online uproar, comedian I Go Save&apos;s fierce criticism of Nigerians celebrating the news, and what this all means for the African Giant&apos;s global appeal.</itunes:summary>
+      <itunes:duration>00:13:55</itunes:duration>
+      <itunes:keywords>Burna Boy, I Go Save, Cancelled Tour, Low Ticket Sales, Nigerian Gossip, Podcast</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+  </channel>
+</rss>

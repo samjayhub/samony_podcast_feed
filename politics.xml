@@ -4,12 +4,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Samony Podcast - Politics</title>
+    <title>The Political Pulse</title>
     <link>https://www.samony.com.ng/podcast</link>
     <language>en-us</language>
     <copyright>? 2025 Samony. All rights reserved.</copyright>
     <itunes:author>Samony</itunes:author>
-    <itunes:summary>Get the latest political news and updates from Nigeria and around the world. Stay informed on government policies, elections, and political developments.</itunes:summary>
+    <itunes:summary>Political Pulse delivers sharp political updates from Nigeria and global power centers. You get daily insights on government decisions, elections, policy shifts, and leadership actions. Each episode breaks down complex issues into clear points you follow easily. Listeners track who holds power, who gains influence, and who loses ground. Discussions focus on facts, context, and consequences. No noise. No filler. Political Pulse helps you stay ahead of political moves shaping jobs, security, business, and daily life. Perfect for voters, professionals, students, and policy watchers.Subscribe to Political Pulse. Stay informed. Stay prepared.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Samony</itunes:name>
@@ -18,7 +18,7 @@
     <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png"/>
     <image>
       <url>https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png</url>
-      <title>Samony Podcast - Politics</title>
+      <title>The Political Pulse</title>
       <link>https://www.samony.com.ng/podcast</link>
     </image>
     <itunes:category text="News">
@@ -26,9 +26,9 @@
     </itunes:category>
     <itunes:keywords>rivers state, governor fubara, political crisis, defection, apc, pdp, nyesom wike, president tinubu, nigeria politics, niger state, school abduction, insecurity</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
-    <description>Get the latest political news and updates from Nigeria and around the world. Stay informed on government policies, elections, and political developments.</description>
-    <pubDate>Sat, 13 Dec 2025 23:54:29 GMT</pubDate>
-    <lastBuildDate>Sat, 13 Dec 2025 23:54:29 GMT</lastBuildDate>
+    <description>Political Pulse delivers sharp political updates from Nigeria and global power centers. You get daily insights on government decisions, elections, policy shifts, and leadership actions. Each episode breaks down complex issues into clear points you follow easily. Listeners track who holds power, who gains influence, and who loses ground. Discussions focus on facts, context, and consequences. No noise. No filler. Political Pulse helps you stay ahead of political moves shaping jobs, security, business, and daily life. Perfect for voters, professionals, students, and policy watchers.Subscribe to Political Pulse. Stay informed. Stay prepared.</description>
+    <pubDate>Sat, 13 Dec 2025 23:59:28 GMT</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2025 23:59:28 GMT</lastBuildDate>
     <atom:link href="https://samjayhub.github.io/samony_podcast_feed/politics.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Nigeria&apos;s Battleground: Unpacking the Persistent Insecurity Crisis</title>

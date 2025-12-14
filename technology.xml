@@ -4,7 +4,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Samony Podcast - Technology</title>
+    <title>Nigeria Innovative Watch</title>
     <link>https://www.samony.com.ng/podcast</link>
     <language>en-us</language>
     <copyright>? 2025 Samony. All rights reserved.</copyright>
@@ -15,10 +15,10 @@
       <itunes:name>Samony</itunes:name>
       <itunes:email>socials@samony.com.ng</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png"/>
+    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/12/nigeria-inovation-watch.png"/>
     <image>
-      <url>https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png</url>
-      <title>Samony Podcast - Technology</title>
+      <url>https://samony.com.ng/wp-content/uploads/2025/12/nigeria-inovation-watch.png</url>
+      <title>Nigeria Innovative Watch</title>
       <link>https://www.samony.com.ng/podcast</link>
     </image>
     <itunes:category text="Technology">
@@ -26,8 +26,8 @@
     <itunes:keywords>mtn nigeria, 5g broadband, digital inclusion, data plans, telecommunications, nigeria, internet connectivity, technology policy, consumer trust, cybersecurity, digital vulnerabilities, cyberattacks</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <description>Tech news, gadgets, AI developments, startups, and digital trends shaping our world.</description>
-    <pubDate>Sun, 14 Dec 2025 00:04:31 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 00:04:31 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 00:09:32 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:09:32 GMT</lastBuildDate>
     <atom:link href="https://samjayhub.github.io/samony_podcast_feed/technology.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>MTN&apos;s 5G &apos;Unlimited&apos; Data: Game-Changer or Gimmick? The Political Pulse Investigates</title>

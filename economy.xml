@@ -4,7 +4,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Samony Podcast - Economy</title>
+    <title>Daily Business Watch</title>
     <link>https://www.samony.com.ng/podcast</link>
     <language>en-us</language>
     <copyright>? 2025 Samony. All rights reserved.</copyright>
@@ -15,10 +15,10 @@
       <itunes:name>Samony</itunes:name>
       <itunes:email>socials@samony.com.ng</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png"/>
+    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/12/daily-business-watch.png"/>
     <image>
-      <url>https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png</url>
-      <title>Samony Podcast - Economy</title>
+      <url>https://samony.com.ng/wp-content/uploads/2025/12/daily-business-watch.png</url>
+      <title>Daily Business Watch</title>
       <link>https://www.samony.com.ng/podcast</link>
     </image>
     <itunes:category text="Business">
@@ -26,8 +26,8 @@
     <itunes:keywords></itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <description>Economic news, market updates, finance trends, business developments, and monetary policy from Nigeria and global markets.</description>
-    <pubDate>Sun, 14 Dec 2025 00:04:41 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 00:04:41 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 00:09:42 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:09:42 GMT</lastBuildDate>
     <atom:link href="https://samjayhub.github.io/samony_podcast_feed/economy.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Nigeria&apos;s Banking Sector: CBN&apos;s Recapitalisation Drive and Its Far-Reaching Implications</title>

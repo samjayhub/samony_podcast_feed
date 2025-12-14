@@ -4,12 +4,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Golbal Travel Brief</title>
+    <title>Global Travel Brief</title>
     <link>https://www.samony.com.ng/podcast</link>
     <language>en-us</language>
     <copyright>? 2025 Samony. All rights reserved.</copyright>
     <itunes:author>Samony</itunes:author>
-    <itunes:summary>Travel news, destination guides, tourism updates, and travel tips for Nigeria and around the world.</itunes:summary>
+    <itunes:summary>Global Travel Brief delivers clear travel updates from major destinations worldwide. You get practical insight on entry rules, visa changes, flight trends, safety updates, and travel costs. Each episode explains factors shaping planning, timing, and budget. Coverage spans tourism hotspots, emerging destinations, airlines, airports, and travel policy. Information stays current and actionable. Global Travel Brief fits travelers, digital nomads, business travelers, and planners seeking clarity before booking. Follow Global Travel Brief. Travel informed. Travel smarter.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Samony</itunes:name>
@@ -18,16 +18,16 @@
     <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/12/sunrise-brief.png"/>
     <image>
       <url>https://samony.com.ng/wp-content/uploads/2025/12/sunrise-brief.png</url>
-      <title>Golbal Travel Brief</title>
+      <title>Global Travel Brief</title>
       <link>https://www.samony.com.ng/podcast</link>
     </image>
     <itunes:category text="News">
     </itunes:category>
     <itunes:keywords>nnpc, escravos-lagos gas pipeline, explosion, energy crisis, nigeria, infrastructure, government accountability, nigerian exchange, ngx, equity market, stock market, investment</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
-    <description>Travel news, destination guides, tourism updates, and travel tips for Nigeria and around the world.</description>
-    <pubDate>Sun, 14 Dec 2025 00:39:37 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 00:39:37 GMT</lastBuildDate>
+    <description>Global Travel Brief delivers clear travel updates from major destinations worldwide. You get practical insight on entry rules, visa changes, flight trends, safety updates, and travel costs. Each episode explains factors shaping planning, timing, and budget. Coverage spans tourism hotspots, emerging destinations, airlines, airports, and travel policy. Information stays current and actionable. Global Travel Brief fits travelers, digital nomads, business travelers, and planners seeking clarity before booking. Follow Global Travel Brief. Travel informed. Travel smarter.</description>
+    <pubDate>Sun, 14 Dec 2025 00:44:39 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:44:39 GMT</lastBuildDate>
     <atom:link href="https://samjayhub.github.io/samony_podcast_feed/sunrise.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>NNPC Pipeline Explodes: Energy Crisis Deepens!</title>

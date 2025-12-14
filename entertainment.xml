@@ -4,7 +4,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Samony Podcast - Entertainment</title>
+    <title>Entertainment Rush</title>
     <link>https://www.samony.com.ng/podcast</link>
     <language>en-us</language>
     <copyright>? 2025 Samony. All rights reserved.</copyright>
@@ -15,10 +15,10 @@
       <itunes:name>Samony</itunes:name>
       <itunes:email>socials@samony.com.ng</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png"/>
+    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/12/entertainment-rush.png"/>
     <image>
-      <url>https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png</url>
-      <title>Samony Podcast - Entertainment</title>
+      <url>https://samony.com.ng/wp-content/uploads/2025/12/entertainment-rush.png</url>
+      <title>Entertainment Rush</title>
       <link>https://www.samony.com.ng/podcast</link>
     </image>
     <itunes:category text="Leisure">
@@ -26,8 +26,8 @@
     <itunes:keywords>mercy johnson, celebrity scandal, nigerian entertainment, gossip, social media trends, ckay, love nwantiti, spotify, music, nigeria, afrobeats, streaming</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <description>Entertainment news, Nollywood updates, music, celebrity gist, and pop culture from Nigeria and Africa.</description>
-    <pubDate>Sun, 14 Dec 2025 00:24:38 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 00:24:38 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 00:29:38 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:29:38 GMT</lastBuildDate>
     <atom:link href="https://samjayhub.github.io/samony_podcast_feed/entertainment.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Mansion, Mistress, &amp; Mercy Johnson&apos;s Husband: The Gist That&apos;s Rocking Nigeria!</title>

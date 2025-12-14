@@ -4,7 +4,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Samony Podcast - Travel</title>
+    <title>Global Travel Brief</title>
     <link>https://www.samony.com.ng/podcast</link>
     <language>en-us</language>
     <copyright>? 2025 Samony. All rights reserved.</copyright>
@@ -15,10 +15,10 @@
       <itunes:name>Samony</itunes:name>
       <itunes:email>socials@samony.com.ng</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png"/>
+    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/12/global-travel-brief.png"/>
     <image>
-      <url>https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png</url>
-      <title>Samony Podcast - Travel</title>
+      <url>https://samony.com.ng/wp-content/uploads/2025/12/global-travel-brief.png</url>
+      <title>Global Travel Brief</title>
       <link>https://www.samony.com.ng/podcast</link>
     </image>
     <itunes:category text="Leisure">
@@ -26,8 +26,8 @@
     <itunes:keywords>air peace, smartlynx, nigeria travel, aviation dispute, flight delays, naija pidgin, sodiq, samony podcast, nigeria, flights, yuletide, travel</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <description>Travel news, destination guides, tourism updates, and travel tips for Nigeria and around the world.</description>
-    <pubDate>Sun, 14 Dec 2025 00:24:39 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 00:24:39 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 00:29:40 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:29:40 GMT</lastBuildDate>
     <atom:link href="https://samjayhub.github.io/samony_podcast_feed/travel.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Air Peace vs. SmartLynx: Wetin Dey Happen for Our Air Travel?!</title>

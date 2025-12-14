@@ -4,7 +4,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Samony Podcast - Sports</title>
+    <title>Incredible Sport Stories</title>
     <link>https://www.samony.com.ng/podcast</link>
     <language>en-us</language>
     <copyright>? 2025 Samony. All rights reserved.</copyright>
@@ -15,10 +15,10 @@
       <itunes:name>Samony</itunes:name>
       <itunes:email>socials@samony.com.ng</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png"/>
+    <itunes:image href="https://samony.com.ng/wp-content/uploads/2025/12/incredible-sport-stories-1.png"/>
     <image>
-      <url>https://samony.com.ng/wp-content/uploads/2025/11/samony-cover.png</url>
-      <title>Samony Podcast - Sports</title>
+      <url>https://samony.com.ng/wp-content/uploads/2025/12/incredible-sport-stories-1.png</url>
+      <title>Incredible Sport Stories</title>
       <link>https://www.samony.com.ng/podcast</link>
     </image>
     <itunes:category text="Sports">
@@ -26,8 +26,8 @@
     <itunes:keywords></itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <description>Stay updated with the latest sports news, football updates, Super Eagles news, and athletic events from Nigeria and beyond.</description>
-    <pubDate>Sun, 14 Dec 2025 00:24:42 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 00:24:42 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Dec 2025 00:29:42 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Dec 2025 00:29:42 GMT</lastBuildDate>
     <atom:link href="https://samjayhub.github.io/samony_podcast_feed/sports.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Chukwueze&apos;s Club Form: A Super Eagles Dilemma for AFCON 2025?</title>
